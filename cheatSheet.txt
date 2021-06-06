@@ -30,3 +30,4 @@ Henry Digitals:
 Henry Digitals:
 
 digitalshenry@gmail.com/@Henry@123
+new line addded into the cheatsheet file to check the git push
